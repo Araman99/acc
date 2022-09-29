@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "gender": "Male",
+    "name": "Aman",
+    "contact": "01xxxxx",
+    "address": "Dhaka",
+    "photoUrl": "http://aman.photo"
+  },
+  {
+    "id": 2,
+    "gender": "Male",
+    "name": "Hasan",
+    "contact": "01xxxxx",
+    "address": "Finland",
+    "photoUrl": "http://aman.photo"
+  },
+  {
+    "id": 3,
+    "gender": "Male",
+    "name": "Nahid",
+    "contact": "01xxxxx",
+    "address": "Finland",
+    "photoUrl": "http://aman.photo"
+  },
+  {
+    "id": 4,
+    "gender": "Female",
+    "name": "Habiba",
+    "contact": "01xxxxx",
+    "address": "Sylhet",
+    "photoUrl": "http://aman.photo"
+  },
+  {
+    "id": 5,
+    "name": "Atik finland",
+    "gender": "Male",
+    "contact": "01xxxxx",
+    "address": "Lahti,Finland",
+    "photoUrl": "http://aman.photo"
+  }
+]
